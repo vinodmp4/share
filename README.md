@@ -1,6 +1,6 @@
 <h1>Downloads</h1></br>
-[PyRx Download](https://sourceforge.net/projects/pyrx/files/0.8/)
+[PyRx - Molecular Docking](https://sourceforge.net/projects/pyrx/files/0.8/)
 </br>
-[Avogadro 2](https://www.openchemistry.org/downloads/)
+[Avogadro 2 Molecular Editing](https://www.openchemistry.org/downloads/)
 </br>
-[Openbabel](https://sourceforge.net/projects/openbabel/)
+[Openbabel Molecule Converter](https://sourceforge.net/projects/openbabel/)
